@@ -1,1 +1,1 @@
-# vetlag-privacy
+# vetlag-privacy/terms
